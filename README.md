@@ -22,7 +22,7 @@
 - NPTEL: [Abstract Algebra by Prof. Ashish Srivastava, IIT Bombay](https://nptel.ac.in/courses/111103070)
 
 ## Index
-1. [Chapter 1]
+1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Abstract-Algebra/blob/main/Chapter1.pdf)
 2. [Chapter 2] 
 3. [Chapter 3]  
 4. [Chapter 4]
